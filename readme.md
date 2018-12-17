@@ -31,7 +31,9 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 Support this project by [becoming a Gold Sponsor](https://opencollective.com/fody/order/7088). A large company logo will be added here with a link to your website.
 
-<a href="https://opencollective.com/fody/tiers/gold/0/website"><img src="https://opencollective.com/fody/tiers/gold/0/avatar.svg?avatarHeight=110"></a>
+<div style="background-color: black;">
+<a href="https://www.postsharp.net"><img width="200px" src="https://www.postsharp.net/Design/images/PostSharpText.svg"></a>
+</div>
 
 
 ### Silver Sponsors
@@ -469,5 +471,5 @@ The below addins are no longer maintained. Raise an issue in the specific projec
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/Fody/Fody/graphs/contributors"><img src="https://opencollective.com/fody/contributors.svg?width=890" /></a>
+<a href="https://github.com/Fody/Fody/graphs/contributors"><img src="https://opencollective.com/fody/contributors.svg?width=890&button=false" /></a>
 
