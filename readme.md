@@ -31,7 +31,7 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 Support this project by [becoming a Gold Sponsor](https://opencollective.com/fody/order/7088). A large company logo will be added here with a link to your website.
 
-<a href="https://opencollective.com/fody/tiers/gold/0/website"><img src="https://opencollective.com/fody/tiers/gold/0/avatar.svg?avatarHeight=100"></a>
+<a href="https://opencollective.com/fody/tiers/gold/0/website"><img src="https://opencollective.com/fody/tiers/gold/0/avatar.svg?avatarHeight=110"></a>
 
 
 ### Silver Sponsors
