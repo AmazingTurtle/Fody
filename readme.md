@@ -31,9 +31,7 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 Support this project by [becoming a Gold Sponsor](https://opencollective.com/fody/order/7088). A large company logo will be added here with a link to your website.
 
-<div style="background-color: black;">
-<a href="https://www.postsharp.net" style="background-color: black;"><img width="200px" src="https://www.postsharp.net/Design/images/PostSharpText.svg"></a>
-</div>
+<a href="https://www.postsharp.net"><img width="200px" src="https://www.postsharp.net/Design/images/PostSharpText.svg" style="background: black;"></a>
 
 
 ### Silver Sponsors
