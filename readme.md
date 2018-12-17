@@ -104,58 +104,16 @@ Support this project by [becoming a Bronze Sponsor](https://opencollective.com/f
 
 Thanks to all the backing developers! Support this project by [becoming a patron](https://opencollective.com/fody/order/3059).
 
-
-<object class="center-block hidden-xs" type="image/svg+xml" data="https://opencollective.com/thelounge/backers.svg?avatarHeight=50&width=660" width="660"></object>
-
-<a href="https://opencollective.com/fody/tiers/patron/0/website"><img src="https://opencollective.com/fody/tiers/patron/0/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/1/website"><img src="https://opencollective.com/fody/tiers/patron/1/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/2/website"><img src="https://opencollective.com/fody/tiers/patron/2/avatar.svg?avatarHeight=70"  style="max-height:70px;"></a>
-<a href="https://opencollective.com/fody/tiers/patron/3/website"><img src="https://opencollective.com/fody/tiers/patron/3/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/4/website"><img src="https://opencollective.com/fody/tiers/patron/4/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/5/website"><img src="https://opencollective.com/fody/tiers/patron/5/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/6/website"><img src="https://opencollective.com/fody/tiers/patron/6/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/7/website"><img src="https://opencollective.com/fody/tiers/patron/7/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/8/website"><img src="https://opencollective.com/fody/tiers/patron/8/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/9/website"><img src="https://opencollective.com/fody/tiers/patron/9/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/10/website"><img src="https://opencollective.com/fody/tiers/patron/10/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/11/website"><img src="https://opencollective.com/fody/tiers/patron/11/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/12/website"><img src="https://opencollective.com/fody/tiers/patron/12/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/13/website"><img src="https://opencollective.com/fody/tiers/patron/13/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/14/website"><img src="https://opencollective.com/fody/tiers/patron/14/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/15/website"><img src="https://opencollective.com/fody/tiers/patron/15/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/16/website"><img src="https://opencollective.com/fody/tiers/patron/16/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/17/website"><img src="https://opencollective.com/fody/tiers/patron/17/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/18/website"><img src="https://opencollective.com/fody/tiers/patron/18/avatar.svg?avatarHeight=70"></a>
-<a href="https://opencollective.com/fody/tiers/patron/19/website"><img src="https://opencollective.com/fody/tiers/patron/19/avatar.svg?avatarHeight=70"></a>
-
+<a href="https://opencollective.com/fody#contributors"><img src="https://opencollective.com/fody/tiers/patron.svg?width=890&avatarHeight=50&button=false"></a>
 
 
 ### Generous financial sponsors
 
-<a href="https://opencollective.com/fody/sponsor/0/website"><img src="https://opencollective.com/fody/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/1/website"><img src="https://opencollective.com/fody/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/2/website"><img src="https://opencollective.com/fody/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/3/website"><img src="https://opencollective.com/fody/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/4/website"><img src="https://opencollective.com/fody/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/5/website"><img src="https://opencollective.com/fody/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/6/website"><img src="https://opencollective.com/fody/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/7/website"><img src="https://opencollective.com/fody/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/8/website"><img src="https://opencollective.com/fody/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/fody/sponsor/9/website"><img src="https://opencollective.com/fody/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/fody#contributors"><img src="https://opencollective.com/fody/sponsor.svg?width=890&avatarHeight=70&button=false"></a>
 
 
-### Generous financial backers
 
-<a href="https://opencollective.com/fody/backer/0/website"><img src="https://opencollective.com/fody/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/1/website"><img src="https://opencollective.com/fody/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/2/website"><img src="https://opencollective.com/fody/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/3/website"><img src="https://opencollective.com/fody/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/4/website"><img src="https://opencollective.com/fody/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/5/website"><img src="https://opencollective.com/fody/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/6/website"><img src="https://opencollective.com/fody/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/7/website"><img src="https://opencollective.com/fody/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/8/website"><img src="https://opencollective.com/fody/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/fody/backer/9/website"><img src="https://opencollective.com/fody/backer/9/avatar.svg"></a>
+
 
 
 <!--- EndOpenCollectiveBackers -->
@@ -562,7 +520,5 @@ The below addins are no longer maintained. Raise an issue in the specific projec
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="fody/contributors"><img src="https://opencollective.com/fody/contributors.svg?width=890" /></a>
+<a href="https://github.com/Fody/Fody/graphs/contributors"><img src="https://opencollective.com/fody/contributors.svg?width=890" /></a>
 
-
-<object data="https://opencollective.com/thelounge/backers.svg?avatarHeight=50&width=400" type="image/svg+xml"></object>  
